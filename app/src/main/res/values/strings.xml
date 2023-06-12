@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Elaji Maneger</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="do_not_have_an_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="skip">Skip</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="send">Send</string>
+    <string name="enter_the_email_sender_pin">Enter the email sender\'s PIN</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="did_not_get_the_code">Didn\'t get the code?</string>
+    <string name="send_a_new_code">Send a new code</string>
+    <string name="sign_in">Sign in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint">****</string>
+
+    <!--Temp    -->
+    <string name="temp_sign_out">Sign Out</string>
+    <string name="temp_nav_to_map">Nav to Map</string>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_categories">Categories</string>
+
+    <string name="example_text_for_on_boarding" translatable="false">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص</string>
+</resources>
