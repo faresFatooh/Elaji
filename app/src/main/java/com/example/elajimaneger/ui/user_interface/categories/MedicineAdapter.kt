@@ -11,13 +11,6 @@ import com.example.elajimaneger.databinding.ItemMedicineBinding
 class MedicineAdapter(private val itemList: List<Medicine>, private var context: Context) :
     RecyclerView.Adapter<MedicineAdapter.MyViewHolder>() {
 
-//    inner class MyViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-//        val tvMedicineSalary: TextView = itemView.findViewById(R.id.tvMedicineSalary)
-//        val tvMedicineName: TextView = itemView.findViewById(R.id.tvMedicineName)
-//        val ivMedicine: ImageView = itemView.findViewById(R.id.ivMedicine)
-//        val buAddMedicineToFavorite: ImageView = itemView.findViewById(R.id.buAddMedicineToFavorite)
-//
-//    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
         val binding =
